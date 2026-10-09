@@ -19,3 +19,5 @@ Temperature formulas source: https://www.nist.gov/pml/owm/si-units-temperature
 SI prefixes source: https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes
 
 The current public-only Pi App Store cannot discover private repositories; authenticated store support is not verified.
+
+Fullscreen update: Store interactive launch uses terminal-sized board cells or wrapped full-terminal utility input/results with PgUp/PgDn scrolling. Original core rules and direct CLI commands remain unchanged. Ctrl+C cancels utility entry, result Enter returns; no new dependency downloads. Linux PTY resize/restoration checked; physical Pi untested.
